@@ -1,6 +1,6 @@
 # PDO
 config.php
-
+```php
 <?php 
 
  define("SERVIDOR"," ");
